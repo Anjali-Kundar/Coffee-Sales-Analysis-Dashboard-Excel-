@@ -1,3 +1,6 @@
+Project Title
+Coffee Sales Analysis Dashboard
+
 This project involves creating a comprehensive dashboard to analyze coffee sales data. The dashboard allows users to visualize and interact with various aspects of sales performance, including trends, product performance, and regional sales.
 
 Features
@@ -18,7 +21,5 @@ Features
    Insert and format timelines for tracking sales over time.
    Add and format slicers for interactive data filtering.
 
-5) Updating Data:
-   Ensure the PivotTable data source is updated as needed to reflect changes in the data set.
-   Building the Dashboard:
+5) Building the Dashboard:
    Assemble the various elements into a cohesive and interactive dashboard.
