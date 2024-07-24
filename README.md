@@ -4,6 +4,7 @@ Coffee Sales Analysis Dashboard
 This project involves creating a comprehensive dashboard to analyze coffee sales data. The dashboard allows users to visualize and interact with various aspects of sales performance, including trends, product performance, and regional sales.
 
 Features
+
 Data Preparation:
 XLOOKUP: Use XLOOKUP for advanced data retrieval and lookup operations.
 INDEX MATCH: Utilize INDEX MATCH for more flexible data matching across sheets.
